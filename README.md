@@ -22,5 +22,4 @@ Achieved ~88% accuracy using Random Forest after preprocessing and feature engin
 - matplotlib
 - seaborn
 - scikit-learn
-
-Install using:
+  
